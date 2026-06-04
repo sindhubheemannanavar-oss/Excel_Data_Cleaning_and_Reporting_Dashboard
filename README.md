@@ -11,8 +11,6 @@ Created an interactive Excel dashboard using data cleaning, Pivot Tables, Pivot 
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Conditional Formatting
-- Data Validation
 
 ## Dashboard Preview
 
