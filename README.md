@@ -17,8 +17,7 @@ Created an interactive Excel dashboard using data cleaning, Pivot Tables, Pivot 
 ## Dashboard Preview
 
 ![Dashboard Screenshot] 
-
-Exceldashboard_screenshot.png
+(Exceldashboard_screenshot.png)
 
 ## Features
 - Data Cleaning
